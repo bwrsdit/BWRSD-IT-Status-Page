@@ -3,9 +3,6 @@ title: Planned Network Outage for ISP Equipment Replacement
 date: 2022-08-09 19:00:00
 informational: true
 pin: true
-affected:
-  - Network
-  - Network Sites
 section: issue
 —
 
