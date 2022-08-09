@@ -169,23 +169,23 @@ params:
       description: The BWRSD Website.
       category: Uncategorized
       link: https://www.bwrsd.org
-     -name: Content Filtering
+    - name: Content Filtering
       category: Network
-     -name: Internet
+    - name: Internet
       category: Network
-     -name: Colt Andrews Elementary School
+    - name: Colt Andrews Elementary School
       category: Network Sites
-     -name: Guiteras Elementary School
+    - name: Guiteras Elementary School
       category: Network Sites
-     -name: Hugh Cole Elementary School
+    - name: Hugh Cole Elementary School
       category: Network Sites
-     -name: Kickemuit Middle School
+    - name: Kickemuit Middle School
       category: Network Sites
-     -name: Mt. Hope High School
+    - name: Mt. Hope High School
       category: Network Sites
-     -name: Reynolds Central Office
+    - name: Reynolds Central Office
       category: Network Sites
-     -name: Rockwell Elementary School
+    - name: Rockwell Elementary School
       category: Network Sites
 
   # What date format to use?
