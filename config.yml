@@ -145,10 +145,13 @@ params:
   categories:
     - name: Cloud Service Providers
       description: Cloud Products & Services we rely on.
-      closed: true
-    - name: Empty Category
+      closed: false
     - name: Uncategorized
       untitled: true
+    - name: Network
+      closed: false
+     -name: Network Sites
+      closed: true
 
   # These are your systems. Change them to
   # change the amount of components.
