@@ -1,6 +1,6 @@
 —
 title: Planned Network Outage for ISP Equipment Replacement
-date: 2022-08-09 01:00:00
+date: 2022-08-08 21:00:00
 informational: true
 pin: true
 —
