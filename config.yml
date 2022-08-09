@@ -43,7 +43,7 @@
 
 # What is your status page called?
 # Shows up in the browser bar and meta tags
-title: Eggsample Status
+title: BWRSD IT Status
 
 # Should posts, which have a publish date
 # from the future, be built? Useful for
@@ -143,8 +143,8 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: North Coast
-      description: The main servers are located here.
+    - name: Cloud Service Providers
+      description: Cloud Products & Services we rely on.
       closed: true
     - name: Empty Category
     - name: Uncategorized
@@ -158,20 +158,35 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Gateway
-      category: North Coast
-    - name: Backup Gateway
-      category: North Coast
-    - name: Website
-      description: The web frontend for the application.
+    - name: Aspen
+      category: Cloud Service Providers
+      link: https://ri-bwrsd.myfollett.com
+    - name: Clever
+      description: BWRSD Clever Single Sign On
+      category: Cloud Service Providers
+      link: https://www.clever.com/in/bwrsd
+    - name: District Website
+      description: The BWRSD Website.
       category: Uncategorized
-      link: https://example.com/
-    - name: API
-      description: The guts of the application.
-      category: Uncategorized
-    - name: Media Proxy
-      description: This is the service responsible for serving images, audio, and video. It is reliant on our CDN.
-      category: Uncategorized
+      link: https://www.bwrsd.org
+     -name: Content Filtering
+     -category: Network
+     -name: Internet
+     -category: Network
+     -name: Colt Andrews Elementary School
+     -category: Network Sites
+     -name: Guiteras Elementary School
+     -category: Network Sites
+     -name: Hugh Cole Elementary School
+     -category: Network Sites
+     -name: Kickemuit Middle School
+     -category: Network Sites
+     -name: Mt. Hope High School
+     -category: Network Sites
+     -name: Reynolds Central Office
+     -category: Network Sites
+     -name: Rockwell Elementary School
+     -category: Network Sites
 
   # What date format to use?
   #
@@ -233,7 +248,7 @@ params:
   #
   # Default: `true`
   # BOOLEAN; `true`, `false`
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
 
   # Should incident history be separated
   # like in an archive view?
@@ -276,7 +291,7 @@ params:
   #
   # Default: `false`
   # BOOLEAN; `true`, `false`
-  useLogo: true
+  useLogo: false
 
   # Where is the logo located, if one is
   # present at all?
@@ -292,7 +307,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: We continuously monitor the status of our systems and services. If there are any interruptions, a note will be posted here.
 
   # Tabs on homepage
   # Uncomment to enable.
