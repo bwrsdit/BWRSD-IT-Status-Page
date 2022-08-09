@@ -170,23 +170,23 @@ params:
       category: Uncategorized
       link: https://www.bwrsd.org
      -name: Content Filtering
-     -category: Network
+      category: Network
      -name: Internet
-     -category: Network
+      category: Network
      -name: Colt Andrews Elementary School
-     -category: Network Sites
+      category: Network Sites
      -name: Guiteras Elementary School
-     -category: Network Sites
+      category: Network Sites
      -name: Hugh Cole Elementary School
-     -category: Network Sites
+      category: Network Sites
      -name: Kickemuit Middle School
-     -category: Network Sites
+      category: Network Sites
      -name: Mt. Hope High School
-     -category: Network Sites
+      category: Network Sites
      -name: Reynolds Central Office
-     -category: Network Sites
+      category: Network Sites
      -name: Rockwell Elementary School
-     -category: Network Sites
+      category: Network Sites
 
   # What date format to use?
   #
