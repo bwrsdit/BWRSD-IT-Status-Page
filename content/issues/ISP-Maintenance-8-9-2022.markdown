@@ -9,6 +9,4 @@ affected:
 section: issue
 —
 
-*Monitoring* - After hitting the ole reboot button Example Chat App is now recovering. We’re going to continue to monitor as everyone reconnects. {{< track "2018-04-13 16:50:00" >}}
-
-*Investigating* - We’re aware of users experiencing unavailable guilds and issues when attempting to connect. We’re currently investigating. {{< track "2018-04-13 15:54:00" >}}
+Our Internet Service Provider (ISP) will be replacing equipmnent on 8/9/2022 at 3:00 PM. A network outage of up to 30 minutes is expected while the new equipment is connected.
