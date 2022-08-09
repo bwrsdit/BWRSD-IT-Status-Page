@@ -150,7 +150,7 @@ params:
       untitled: true
     - name: Network
       closed: false
-     -name: Network Sites
+    - name: Network Sites
       closed: true
 
   # These are your systems. Change them to
